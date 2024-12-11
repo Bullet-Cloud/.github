@@ -4,7 +4,8 @@
 
 ## Visão Geral
 
-A **Bullet Cloud** é a sua parceira de confiança para serviços de tecnologia em nuvem pública, desenvolvida com um profundo entendimento das necessidades do mercado nacional. Criada para empoderar empresas de todos os tamanhos, a Bullet Cloud se dedica a democratizar o acesso à tecnologia em nuvem e promover a transformação digital em todo o Brasil. 🇧🇷
+A **Bullet Cloud** é a sua parceira de confiança para serviços de tecnologia em nuvem pública, desenvolvida com um profundo entendimento das necessidades do mercado nacional.
+Criada para empoderar empresas de todos os tamanhos, nos dedicamos a democratizar o acesso à tecnologia em nuvem e promover a transformação digital em todo o Brasil. 🇧🇷
 
 Com uma infraestrutura robusta e segura, oferecemos soluções escaláveis que garantem desempenho rápido e proteção contra ameaças digitais. Nossa missão é impulsionar a competitividade das empresas brasileiras, fornecendo ferramentas tecnológicas que permitam inovação contínua e crescimento sustentável.
 
