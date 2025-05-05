@@ -1,6 +1,6 @@
 # Bullet Cloud ☁️
 
-**Desempenho Veloz, Segurança à Prova de Balas! 🚀🛡️**
+**Desempenho Veloz, Segurança à Prova de Balas! 🛡️**
 
 ## Visão Geral
 
