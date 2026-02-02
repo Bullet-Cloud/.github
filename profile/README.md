@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/ProStaffGG?style=flat-square&logo=twitter)](https://twitter.com/ProStaffGG)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/prostaff.gg)
 
-> Plataforma profissional de gerenciamento e análise para equipes de e-sports, focada em League of Legends.  
+> Plataforma de gerenciamento e análise para equipes de e-sports, focada em League of Legends.  
 > Ferramentas B2B SaaS para organizações, coaches e analistas.
 
 Bem-vindo ao repositório da organização ProStaff.gg no GitHub!
