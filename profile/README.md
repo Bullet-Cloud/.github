@@ -9,7 +9,9 @@
 
 Bem-vindo ao repositório da organização ProStaff.gg no GitHub! 
 
-Somos uma plataforma dedicada a elevar o nível do ecossistema competitivo de e-sports, fornecendo ferramentas avançadas de scouting, analytics, gerenciamento de equipes e preparação tática. Nossa missão é empoderar times profissionais com dados acionáveis e insights para maximizar o desempenho.
+Somos uma plataforma dedicada a elevar o nível do ecossistema competitivo de e-sports, fornecendo ferramentas avançadas de scouting, analytics, gerenciamento de equipes e preparação tática. 
+
+Nossa missão é empoderar times profissionais com dados acionáveis e insights para maximizar o desempenho.
 
 Visite nosso site: [prostaffgg.netlify.app](https://prostaffgg.netlify.app/)
 
@@ -24,6 +26,8 @@ Desenvolvida com foco em League of Legends, nossa plataforma integra dados em te
 - **Scouting de Talentos**: Descoberta de jogadores com watchlists e sincronização automática.
 - **Módulo Competitivo**: Análise de drafts, integração com torneios profissionais e tracking de oponentes.
 - **Suporte e Estratégia**: Sistema de tickets, FAQs, planejamento de drafts e táticas.
+
+Além de contar com nossa base de dados com mais de 50.000 partidas analisadas
 
 Nossa stack é moderna e escalável, com backend em Ruby on Rails e frontend em React com TypeScript em migração para Vue.js 3.
 
