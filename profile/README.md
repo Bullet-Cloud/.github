@@ -1,49 +1,61 @@
+# ProStaff.gg
 
-# Bullet Cloud ☁️
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Discord](https://img.shields.io/discord/123456789?color=7289DA&label=Discord&logo=discord&logoColor=white&style=flat-square)](https://discord.gg/kFtCGWHkNE)
+[![Twitter](https://img.shields.io/twitter/follow/ProStaffGG?style=flat-square&logo=twitter)](https://twitter.com/ProStaffGG)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/prostaff.gg)  
 
-**Segurança Veloz, Proteção à Prova de Balas!**
+> Plataforma profissional de gerenciamento e análise para equipes de e-sports, focada em League of Legends. Ferramentas B2B SaaS para organizações, coaches e analistas.
 
-## Visão Geral
+Bem-vindo ao repositório da organização ProStaff.gg no GitHub! 
 
-A **Bullet Cloud** é a sua aliada estratégica em **cibersegurança**, com soluções inovadoras desenvolvidas para proteger empresas brasileiras contra ameaças digitais crescentes.
-Nossa missão é **blindar dados, sistemas e infraestruturas**, garantindo a continuidade dos negócios e a confiança dos seus clientes.
+Somos uma plataforma dedicada a elevar o nível do ecossistema competitivo de e-sports, fornecendo ferramentas avançadas de scouting, analytics, gerenciamento de equipes e preparação tática. Nossa missão é empoderar times profissionais com dados acionáveis e insights para maximizar o desempenho.
 
-Combinamos **tecnologia de ponta** com profundo conhecimento do cenário nacional, oferecendo serviços acessíveis e de alto desempenho que fortalecem a segurança digital em todo o Brasil. 🇧🇷
+Visite nosso site: [prostaffgg.netlify.app](https://prostaffgg.netlify.app/)
 
----
+## Sobre a ProStaff.gg
 
-## Benefícios
+A ProStaff.gg é uma solução completa para o gerenciamento de equipes de e-sports. 
 
-* **Defesa de Alta Performance**: Sistemas otimizados para detecção e resposta rápida a ameaças. ⚡
-* **Monitoramento Contínuo**: Segurança 24/7 com inteligência automatizada. 👁️‍🗨️
-* **Conformidade Garantida**: Atuação alinhada às principais normas e regulamentos. 📜
-* **Especialistas Locais**: Suporte técnico com foco nas necessidades do mercado brasileiro. 🤝
+Desenvolvida com foco em League of Legends, nossa plataforma integra dados em tempo real de APIs como Riot Games e PandaScore, oferecendo:
 
----
+- **Analytics Avançados**: Tendências de KDA, pools de campeões, controle de visão e mais.
+- **Gerenciamento de Equipes**: Calendários de scrims, metas de performance e revisão de VODs.
+- **Scouting de Talentos**: Descoberta de jogadores com watchlists e sincronização automática.
+- **Módulo Competitivo**: Análise de drafts, integração com torneios profissionais e tracking de oponentes.
+- **Suporte e Estratégia**: Sistema de tickets, FAQs, planejamento de drafts e táticas.
 
-## Serviços Oferecidos
+Nossa stack é moderna e escalável, com backend em Ruby on Rails e frontend em React com TypeScript em migração para Vue.js 3.
 
-* **Firewall Gerenciado**: Proteção de borda com políticas personalizadas. 🔥
-* **Resposta a Incidentes**: Ação rápida e eficaz contra invasões e vazamentos. 🚨
-* **Análise de Vulnerabilidades**: Avaliação contínua de riscos em sistemas e redes. 🕵️
-* **Segurança em Nuvem**: Blindagem completa para ambientes cloud. ☁️🔒
-* **Treinamentos em Segurança**: Capacitação para equipes sobre melhores práticas em cibersegurança. 🎓
+## Repositórios Principais
 
----
+- **[prostaff-api](https://github.com/Bulletdev/prostaff-api)**: Backend API em Ruby on Rails.
+- **[prostaff-analytics-hub](https://github.com/Bulletdev/prostaff-analytics-hub)**: (private) Frontend em React/TypeScript.
 
-## Entre em Contato
+## Funcionalidades Destacadas
 
-Proteja sua empresa com quem entende de segurança digital.
-Acesse nosso [site oficial](https://www.bulletcloud.com.br) ou fale com a gente: **[contato@bulletcloud.com.br](mailto:contato@bulletcloud.com.br)** 📧
+- **Integração com Riot Games**: Importação automática de matches e sincronização de jogadores.
+- **Analytics Profundos**: Comparações de performance, análise de laning e teamfights.
+- **Mobile-Friendly**: Suporte a PWA e builds nativos com Capacitor.
+- **Segurança**: Testes OWASP, autenticação JWT e rate limiting.
+- **Desempenho**: Cache com Redis, jobs assíncronos com Sidekiq.
 
----
+Para mais detalhes, confira os READMEs dos repositórios e nosso SITE.
 
-## Nossa Missão
+## Licença
 
-**Proteger o futuro digital das empresas brasileiras com soluções de cibersegurança confiáveis, rápidas e acessíveis.** 🇧🇷🛡️
+© 2026 ProStaff.gg. Todos os direitos reservados.
 
----
+Este projeto é licenciado sob a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Veja o arquivo [LICENSE](LICENSE.md) para detalhes.
 
-Obrigado por confiar na **Bullet Cloud** ☁️— sua defesa começa aqui. 🔐
+A ProStaff.gg não é endossada pela Riot Games e não reflete as visões ou opiniões da Riot Games ou de qualquer pessoa oficialmente envolvida na produção ou gerenciamento de propriedades da Riot Games. Riot Games e todas as propriedades associadas são marcas comerciais ou registradas da Riot Games, Inc.
 
----
+## Contato
+
+- **Email**: suporte@prostaff.gg
+- **Discord**: [Junte-se à comunidade](https://discord.gg/prostaff)
+- **Twitter**: [@ProStaffGG](https://twitter.com/ProStaffGG)
+- **Instagram**: [@prostaff.gg](https://instagram.com/prostaff.gg)
+- **Site**: [prostaffgg.netlify.app](https://prostaffgg.netlify.app/)
+- **Documentação**: [docs.prostaff.gg](https://docs.prostaff.gg)
+
+**Feito com ❤️ para a comunidade de e-sports no Brasil e no mundo!**
