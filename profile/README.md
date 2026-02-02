@@ -1,17 +1,18 @@
 # ProStaff.gg
-[![ClubeDoJava](https://dcbadge.limes.pink/api/server/kFtCGWHkNE)](https://discord.gg/kFtCGWHkNE)
 
+![ProStaff.gg Cover](https://github.com/prostaffgg/.github/blob/github/prostaffgg_cover.jpeg?raw=true)
 
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Twitter](https://img.shields.io/twitter/follow/ProStaffGG?style=flat-square&logo=twitter)](https://twitter.com/ProStaffGG)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/prostaff.gg)  
+[![Discord](https://dcbadge.limes.pink/api/server/kFtCGWHkNE?style=flat-square)](https://discord.gg/kFtCGWHkNE)
+[![Twitter](https://img.shields.io/twitter/follow/ProStaffGG?style=flat-square&logo=twitter)](https://twitter.com/ProStaffGG)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/prostaff.gg)
 
-> Plataforma profissional de gerenciamento e análise para equipes de e-sports, focada em League of Legends.
-> 
+> Plataforma profissional de gerenciamento e análise para equipes de e-sports, focada em League of Legends.  
 > Ferramentas B2B SaaS para organizações, coaches e analistas.
 
-Bem-vindo ao repositório da organização ProStaff.gg no GitHub! 
+Bem-vindo ao repositório da organização ProStaff.gg no GitHub!
 
-Somos uma plataforma dedicada a elevar o nível do ecossistema competitivo de e-sports, fornecendo ferramentas avançadas de scouting, analytics, gerenciamento de equipes e preparação tática. 
+Somos uma plataforma dedicada a elevar o nível do ecossistema competitivo de e-sports, fornecendo ferramentas avançadas de scouting, analytics, gerenciamento de equipes e preparação tática.
 
 Nossa missão é empoderar times profissionais com dados acionáveis e insights para maximizar o desempenho.
 
@@ -19,7 +20,7 @@ Visite nosso site: [prostaffgg.netlify.app](https://prostaffgg.netlify.app/)
 
 ## Sobre a ProStaff.gg
 
-A ProStaff.gg é uma solução completa para o gerenciamento de equipes de e-sports. 
+A ProStaff.gg é uma solução completa para o gerenciamento de equipes de e-sports.
 
 Desenvolvida com foco em League of Legends, nossa plataforma integra dados em tempo real de APIs como Riot Games e PandaScore, oferecendo:
 
@@ -29,7 +30,7 @@ Desenvolvida com foco em League of Legends, nossa plataforma integra dados em te
 - **Módulo Competitivo**: Análise de drafts, integração com torneios profissionais e tracking de oponentes.
 - **Suporte e Estratégia**: Sistema de tickets, FAQs, planejamento de drafts e táticas.
 
-Além de contar com nossa base de dados com mais de 50.000 partidas analisadas
+Além de contar com nossa base de dados com mais de 50.000 partidas analisadas.
 
 Nossa stack é moderna e escalável, com backend em Ruby on Rails e frontend em React com TypeScript em migração para Vue.js 3.
 
@@ -46,7 +47,7 @@ Nossa stack é moderna e escalável, com backend em Ruby on Rails e frontend em 
 - **Segurança**: Testes OWASP, autenticação JWT e rate limiting.
 - **Desempenho**: Cache com Redis, jobs assíncronos com Sidekiq.
 
-Para mais detalhes, confira os READMEs dos repositórios e nosso SITE.
+Para mais detalhes, confira os READMEs dos repositórios e nosso [site](https://prostaffgg.netlify.app/).
 
 ## Licença
 
@@ -59,7 +60,7 @@ A ProStaff.gg não é endossada pela Riot Games e não reflete as visões ou opi
 ## Contato
 
 - **Email**: suporte@prostaff.gg
-- **Discord**: [Junte-se à comunidade](https://discord.gg/prostaff)
+- **Discord**: [Junte-se à comunidade](https://discord.gg/kFtCGWHkNE)
 - **Twitter**: [@ProStaffGG](https://twitter.com/ProStaffGG)
 - **Instagram**: [@prostaff.gg](https://instagram.com/prostaff.gg)
 - **Site**: [prostaffgg.netlify.app](https://prostaffgg.netlify.app/)
