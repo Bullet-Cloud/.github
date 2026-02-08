@@ -16,7 +16,7 @@ Somos uma plataforma dedicada a elevar o nível do ecossistema competitivo de e-
 
 Nossa missão é empoderar times profissionais com dados acionáveis e insights para maximizar o desempenho.
 
-Visite nosso site: [https://prostaffgg.gg](https://prostaff.vercel.app/)
+Visite nosso site: [https://prostaff.gg](https://prostaff.vercel.app/)
 
 ## Sobre a ProStaff.gg
 
