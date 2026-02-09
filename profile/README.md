@@ -16,7 +16,7 @@ Somos uma plataforma dedicada a elevar o nível do ecossistema competitivo de e-
 
 Nossa missão é empoderar times profissionais com dados acionáveis e insights para maximizar o desempenho.
 
-Visite nosso site: [https://prostaff.gg](https://prostaff.vercel.app/)
+Visite nosso site: [https://prostaff.gg](https://prostaff.gg/)
 
 ## Sobre a ProStaff.gg
 
@@ -47,7 +47,7 @@ Nossa stack é moderna e escalável, com backend em Ruby on Rails e frontend em 
 - **Segurança**: Testes OWASP, autenticação JWT e rate limiting.
 - **Desempenho**: Cache com Redis, jobs assíncronos com Sidekiq.
 
-Para mais detalhes, confira os READMEs dos repositórios e nosso [site](https://prostaff.vercel.app).
+Para mais detalhes, confira os READMEs dos repositórios e nosso [site](https://prostaff.gg/).
 ## Licença
 
 © 2026 ProStaff.gg. Todos os direitos reservados.
