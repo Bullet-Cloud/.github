@@ -54,7 +54,9 @@ Para mais detalhes, confira os READMEs dos repositórios e nosso [site](https://
 
 Este projeto é licenciado sob a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Veja o arquivo [LICENSE](LICENSE.md) para detalhes.
 
-A ProStaff.gg não é endossada pela Riot Games e não reflete as visões ou opiniões da Riot Games ou de qualquer pessoa oficialmente envolvida na produção ou gerenciamento de propriedades da Riot Games. Riot Games e todas as propriedades associadas são marcas comerciais ou registradas da Riot Games, Inc.
+A ProStaff.gg não é endossada pela Riot Games e não reflete as visões ou opiniões da Riot Games ou de qualquer pessoa oficialmente envolvida na produção ou gerenciamento de propriedades da Riot Games. 
+
+Riot Games e todas as propriedades associadas são marcas comerciais ou registradas da Riot Games, Inc.
 
 ## Contato
 
@@ -62,7 +64,7 @@ A ProStaff.gg não é endossada pela Riot Games e não reflete as visões ou opi
 - **Discord**: [Junte-se à comunidade](https://discord.gg/kFtCGWHkNE)
 - **Twitter**: [@ProStaffGG](https://twitter.com/ProStaffGG)
 - **Instagram**: [@prostaff.gg](https://instagram.com/prostaff.gg)
-- **Site**: [prostaffgg.netlify.app](https://prostaffgg.netlify.app/)
+- **Site**: [prostaffgg.netlify.app](https://prostaff.gg/)
 - **Documentação**: [docs.prostaff.gg](https://docs.prostaff.gg)
 
 **Feito com ❤️ para a comunidade de e-sports no Brasil e no mundo!**
