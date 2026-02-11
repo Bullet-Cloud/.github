@@ -60,7 +60,7 @@ Riot Games e todas as propriedades associadas são marcas comerciais ou registra
 
 ## Contato
 
-- **Email**: suporte@prostaff.gg
+- **Email**: support@prostaff.gg
 - **Discord**: [Junte-se à comunidade](https://discord.gg/kFtCGWHkNE)
 - **Twitter**: [@ProStaffGG](https://twitter.com/ProStaffGG)
 - **Instagram**: [@prostaff.gg](https://instagram.com/prostaff.gg)
