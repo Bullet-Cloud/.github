@@ -22,7 +22,7 @@ Visite nosso site: [https://prostaff.gg](https://prostaff.gg/)
 
 A ProStaff.gg é uma solução completa para o gerenciamento de equipes de e-sports.
 
-Desenvolvida com foco em League of Legends, nossa plataforma integra dados em tempo real de APIs como Riot Games e PandaScore, oferecendo:
+Desenvolvida com foco em League of Legends, nossa plataforma integra dados em tempo real de APIs como Riot Games Grid.gg e PandaScore, oferecendo:
 
 - **Analytics Avançados**: Tendências de KDA, pools de campeões, controle de visão e mais.
 - **Gerenciamento de Equipes**: Calendários de scrims, metas de performance e revisão de VODs.
