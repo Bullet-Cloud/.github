@@ -3,7 +3,7 @@
 ![ProStaff.gg Cover](https://github.com/prostaffgg/.github/blob/github/prostaffgg_cover.jpeg?raw=true)
 
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Discord](https://dcbadge.limes.pink/api/server/kFtCGWHkNE?style=flat-square)](https://discord.gg/kFtCGWHkNE)
+[![Discord](https://dcbadge.limes.pink/api/server/yNUSWMDbq4?style=flat-square)](https://discord.gg/yNUSWMDbq4)
 [![Twitter](https://img.shields.io/twitter/follow/ProStaffGG?style=flat-square&logo=twitter)](https://twitter.com/ProStaffGG)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/prostaff.gg)
 
@@ -61,10 +61,10 @@ Riot Games e todas as propriedades associadas são marcas comerciais ou registra
 ## Contato
 
 - **Email**: support@prostaff.gg
-- **Discord**: [Junte-se à comunidade](https://discord.gg/kFtCGWHkNE)
+- **Discord**: [Junte-se à comunidade](https://discord.gg/yNUSWMDbq4)
 - **Twitter**: [@ProStaffGG](https://twitter.com/ProStaffGG)
 - **Instagram**: [@prostaff.gg](https://instagram.com/prostaff.gg)
-- **Site**: [prostaffgg.netlify.app](https://prostaff.gg/)
+- **Site**: [prostaffgg.gg](https://prostaff.gg/)
 - **Documentação**: [docs.prostaff.gg](https://docs.prostaff.gg)
 
 **Feito com ❤️ para a comunidade de e-sports no Brasil e no mundo!**
