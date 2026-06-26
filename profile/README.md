@@ -3,7 +3,7 @@
 ![ProStaff.gg Cover](https://github.com/prostaffgg/.github/blob/github/prostaffgg_cover.jpeg?raw=true)
 
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=flat-square)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Discord](https://dcbadge.limes.pink/api/server/yNUSWMDbq4?style=flat-square)](https://discord.gg/BVcqEtDbzb)
+[![Discord](https://dcbadge.limes.pink/api/server/BVcqEtDbzb?style=flat-square)](https://discord.gg/BVcqEtDbzb)
 [![Twitter](https://img.shields.io/twitter/follow/ProStaffGG?style=flat-square&logo=twitter)](https://twitter.com/ProStaffGG)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/prostaff.gg)
 
